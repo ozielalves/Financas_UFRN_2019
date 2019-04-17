@@ -14,6 +14,9 @@ This project got it's data from available open data disponibilized [here](http:/
   - Numpy as np
   - Matplotlib.pyplot as plt
   - Tkinter as tk
+  - Plotly as py
+  - Plotly.express as px
+  - iFrame
 
 ## Youtube link for the Explanation video
 *https://youtu.be/i_h2HwNJygQ*
@@ -28,7 +31,7 @@ This project got it's data from available open data disponibilized [here](http:/
 
 ## Authorship
 
-Program developed by _Daniel Oliveira Guerra_ (*daniel.guerra13@hotmail.com*),  _Oziel Alves_ (*ozielalves@ufrn.edu.br*) and _Max Willian_ (*maxwilliam780@gmail.com*), 2018.1
+Program developed by _Daniel Oliveira Guerra_ (*daniel.guerra13@hotmail.com*),  _Oziel Alves_ (*ozielalves@ufrn.edu.br*) and _Giovanni Rosário_ (*giovanni.rosario@hotmail.com*), 2019.1
 
-&copy; IMD/UFRN 2018.
+&copy; IMD/UFRN 2019.
 
