@@ -1,7 +1,7 @@
 # UFRN Constructions's Finances
 
 ## Description
-Repository containing financial analysis related to the Universidade Federal do Rio Grande do Norte. Done as asked by my professor at UFRN([UFRN](https://ufrn.br)).
+Repository containing financial analysis related to the Universidade Federal do Rio Grande do Norte. Done as asked by my professor at [UFRN](https://ufrn.br).
 
 ## Implementation and Reproduction 
 This Analysis was done using `Python 3.6`, make sure you have the same python version and the necessary components mentioned below if you want to reproduce the project on your own device. The project scenario is entirely academic and the data used in the analysis are public privacy.
